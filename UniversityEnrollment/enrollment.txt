@@ -1,0 +1,7 @@
+1,1,Jane Doe,1,CO SI 213,Java,2024,Fall,B
+2,2,John Doe,1,CO SI 213,Java,2024,Fall,D
+3,1,Jane Doe,2,MATH 261,Calculus,2024,Fall,B
+4,3,Peter Parker,3,ENGLISH 102,Reading&Composition,2025,Winter,B
+5,4,Mary Jane Watson,3,ENGLISH 102,Reading&Composition,2025,Winter,A
+6,1,Jane Doe,3,ENGLISH 102,Reading&Composition,2025,Winter,A
+7,5,Molly Black,4,CO SI 113,Intro Java,2025,Spring,NA
