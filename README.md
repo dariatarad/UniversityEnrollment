@@ -33,9 +33,9 @@ integer/empty field & if student with this ID already exists.
      
      b. Error message if any of the fields are empty.
      
-     c. If no issues detected data from text fields is 
+     c. If no issues detected - data from text fields is 
      collected and stored in students txt file. Success 
-     message is displayed and all text field cleared.
+     message is displayed and all text fields cleared.
 
 ### View Student Form 
   1. User can search for student by ID.
@@ -45,7 +45,7 @@ integer/empty field & if student with this ID already exists.
      
      b. Error message if ID field is empty.
      
-     c. If no issues detected loads data from student text 
+     c. If no issues detected - loads data from student text 
      file and displays in text fields. Text fields can't be
      edited.
      
@@ -61,7 +61,7 @@ next student.
      
      b. If no issues detected data from text fields is 
      collected and edited in students txt file. Success 
-     message is displayed and all text field cleared.
+     message is displayed and all text fields cleared.
      
 [^1]: If enrollment for this student exists - student information
 is updated in enrollment file too. 
@@ -81,9 +81,9 @@ integer/empty field & if course with this ID already exists.
      
      b. Error message if any of the fields are empty.
      
-     c. If no issues detected data from text fields is 
+     c. If no issues detected - data from text fields is 
      collected and stored in course txt file. Success 
-     message is displayed and all text field cleared.
+     message is displayed and all text fields cleared.
 
 ### View Course Form 
 
@@ -94,7 +94,7 @@ integer/empty field & if course with this ID already exists.
      
      b. Error message if ID field is empty.
      
-     c. If no issues detected loads data from course text 
+     c. If no issues detected - loads data from course text 
      file and displays in text fields. Text fields can't be
      edited.
      
@@ -109,9 +109,9 @@ next course.
      
      a. Error message if fields are empty.
      
-     b. If no issues detected data from text fields is 
+     b. If no issues detected - data from text fields is 
      collected and edited in course txt file. Success 
-     message is displayed and all text field cleared.
+     message is displayed and all text fields cleared.
      
 [^2]: If enrollment for this course exists - course information
 is updated in enrollment file too.
@@ -133,9 +133,9 @@ exists.
      
      b. Error message if any of the fields are empty.
      
-     c. If no issues detected data from text fields is 
+     c. If no issues detected - data from text fields is 
      collected and stored in enrollment txt file. Success 
-     message is displayed and all text field cleared.
+     message is displayed and all text fields cleared.
      
   6. Reset button: clears all fields.
 
@@ -148,7 +148,7 @@ exists.
      
      b. Error message if ID field is empty.
      
-     c. If no issues detected loads data from enrollment text 
+     c. If no issues detected - loads data from enrollment text 
      file and displays in text fields.
      
    [^3]: Only Grade can be edited.
@@ -157,9 +157,9 @@ exists.
   
      a. Error message if Grade field is empty.
      
-     c. If no issues detected data from Grade field is 
+     c. If no issues detected - data from Grade field is 
      collected and updated in enrollment txt file. Success 
-     message is displayed and all text field cleared.
+     message is displayed and all text fields cleared.
      
   5. Reset button: clears all fields.
 
@@ -177,8 +177,7 @@ exists.
      b. Error if no students are enrolled for the course.
      
      c. If no issues detected loads data from enrollment text
-      
-     file and displays in text area[^4]:
+     file and displays in text area[^4] :
      - Course number, name
      - All students that are enrolled in this course and their
      grade.
