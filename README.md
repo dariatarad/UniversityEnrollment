@@ -1,5 +1,5 @@
 ## University Enrollment Project (CS213 Java Final Project)
-  University Enrollment Project is the program is designed to 
+  University Enrollment Project is the program that is designed to 
 collect data from user through forms (Add Student, Add Course,
 Add Enrollment) and store it in designated files. When data is
 collected&stored user can search and view specific information
